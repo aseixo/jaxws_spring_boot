@@ -8,7 +8,7 @@ public class StudentWSImpl implements StudentWS {
 
 	public Student getStudentById(long id) {
 
-		return new Student(2, "Olga María", "olgamfi@gmail.com", 3);
+		return new Student(2, "Olga María", "olgamary@blahblahblah.info", 3);
 	}
 
 }
